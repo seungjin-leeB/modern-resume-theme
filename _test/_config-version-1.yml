@@ -3,11 +3,10 @@ repository: sproogen/modern-resume-theme
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Your Name
-title: Your job title
-email: test@email.com
-phone: 07845248563
-website: sproogen.github.io/modern-resume-theme
+name: 이승진
+title: Cloud Platform Engineer
+email: sjbaby3@email.com
+phone: 010.2527.2806
 
 # Social links
 twitter_username: jekyllrb
